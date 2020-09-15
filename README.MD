@@ -3,7 +3,7 @@
 > Data Structure in python is very interesting and easy to use :bookmark: :raising_hand:
 
 > We have multiple options to do this :arrow_down:
-> Some of them are  :page_curl:
+> Some of them are :
 > * Lists :point_left:
 > * Dictionary
 > * Tuples
