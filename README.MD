@@ -8,7 +8,7 @@
 > * Dictionary
 > * Tuples
 
-__ In this , we'll have a close look how to implement lists in Data Structure in python __ :shipit:
+__ In this , we'll have a close look how to implement lists in Data Structure in python__ :shipit:
 
 > We've many operations which can be used to implement lists :v:
 > Some of them which I've used is : :page_facing_up:
@@ -22,7 +22,7 @@ __ In this , we'll have a close look how to implement lists in Data Structure in
 2. DISPLAY ITEMS
 3. ADD ONE ITEM ONLY
 4. DELETE ITEM IF \
-   41. VALUE OF ITEM TO BE DELETED IS KNOWN
+   41. VALUE OF ITEM TO BE DELETED IS KNOWN \
    42. INDEX OF ITEM TO BE DELETED IS KNOWN
 5. EXIT
 
