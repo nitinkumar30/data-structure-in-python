@@ -8,7 +8,7 @@
 > * Dictionary
 > * Tuples
 
-__ In this , we'll have a close look how to implement lists in Data Structure in python__ :shipit:
+__In this , we'll have a close look how to implement lists in Data Structure in python__ :shipit:
 
 > We've many operations which can be used to implement lists :v:
 > Some of them which I've used is : :page_facing_up:
