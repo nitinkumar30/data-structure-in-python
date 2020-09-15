@@ -17,7 +17,7 @@ __In this , we'll have a close look how to implement lists in Data Structure in 
 > * remove() which takes 1 argument
 > * pop() which takes 1 argument
 
-# OPTIONS GIVEN TO PERFORM HERE :speech_balloon:
+## OPTIONS GIVEN TO PERFORM HERE :speech_balloon:
 1. ADD MULTIPLE ITEMS IN TREE 
 2. DISPLAY ITEMS
 3. ADD ONE ITEM ONLY
