@@ -28,6 +28,6 @@ __In this , we'll have a close look how to implement lists in Data Structure in 
 
 ## Created on 15th September 2020 with :heart:
 
-> You can download full playlist of __Data Structure with Python__ [here](https://drive.google.com/drive/folders/13Yz8nRPne2iipECI21qc5KsWhpzLxNQm?usp=sharing)
+> You can download full tutorial playlist of __Data Structure with Python__ [here](https://drive.google.com/drive/folders/13Yz8nRPne2iipECI21qc5KsWhpzLxNQm?usp=sharing)
 
 #### Feel free to contact for any error or bug :+1:
